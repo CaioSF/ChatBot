@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "Pergunta": "OI",
+      "Resposta": "Ol\u00e1, como vai?"
+    },
+    {
+      "Pergunta": "oi",
+      "Resposta": "oi"
+    },
+    {
+      "Pergunta": "Qual a melhor linguagem de programa\u00e7\u00e3o?",
+      "Resposta": "\u00e8 o python papai!!"
+    },
+    {
+      "Pergunta": "como vai?",
+      "Resposta": "Eu vou bem e voc\u00ea?"
+    },
+    {
+      "Pergunta": "bom dia",
+      "Resposta": "Bom dia! Em que podemos te ajudar?"
+    },
+    {
+      "Pergunta": "Boa tarde",
+      "Resposta": "Boa tarde! como podemos te ajudar?"
+    },
+    {
+      "Pergunta": "ola",
+      "Resposta": "Ol\u00e1! como podemos te ajudar?"
+    }
+    
+  ]
+}
